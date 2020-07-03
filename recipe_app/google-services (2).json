@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270189607804",
+    "firebase_url": "https://loginpage-31f06.firebaseio.com",
+    "project_id": "loginpage-31f06",
+    "storage_bucket": "loginpage-31f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270189607804:android:b248d7d421ce37e28182f9",
+        "android_client_info": {
+          "package_name": "com.login.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270189607804-g0mkasipthi73334nf0bam38iv2lubp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvdxOTTxh6BcCty_ijmVPak-_qVnRVYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270189607804-g0mkasipthi73334nf0bam38iv2lubp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
